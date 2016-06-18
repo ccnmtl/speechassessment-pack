@@ -1,4 +1,4 @@
-/* global jQuery: true */
+/* global jQuery: true, console: true */
 
 require('!file?name=[name].[ext]!../static/index.html');
 require('!file?name=[name].[ext]!../static/img/ctl-logo.png');

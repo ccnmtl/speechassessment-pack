@@ -1,8 +1,9 @@
 OUTPUT_PATH=dist
+JS_FILES=src test
+
+all: clean test jshint jscs
 
 include js.mk
-
-all: clean build test jshint jscs
 
 clean:
 	rm -rf $(OUTPUT_PATH)
