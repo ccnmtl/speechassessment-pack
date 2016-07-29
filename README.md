@@ -1,4 +1,4 @@
-Standalone Interactive Exercise: Speech Assessment & Diagnoses
+Standalone Interactive Exercise: Speech Assessment
 ==========
 
 ##### About Multidisciplinary Approaches to Children’s Oral Health (MATCH)
