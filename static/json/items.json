@@ -1,0 +1,42 @@
+[
+{
+    "content": "<ul>\r\n\t<li>Maintain eye contact</li>\r\n\t<li>Respond to his/her name</li>\r\n\t<li>Understand basic commands like<br />\"no\" & \"open\"</li>\r\n\t<li>Understand the meaning of simple words<br />like \"cup\" & \"toy\"</li>\r\n\t<li>Produce a few words (even if articulation<br />is poor)</li>\r\n\t<li>Imitate speech sounds</li>\r\n</ul>\r\n",
+    "label_name": "Age 18 months",
+    "map_area_shape": "poly",
+    "coordinates": "1,149,11,150,18,163,32,180,47,173,57,176,61,173,55,160,58,142,73,132,90,137,100,151,97,165,91,176,108,183,116,195,148,208,154,206,165,213,161,219,150,219,128,219,104,210,100,219,102,240,99,245,98,253,104,261,101,271,104,319,100,331,103,340,96,345,100,359,82,360,78,345,74,342,76,292,71,287,70,339,66,339,69,348,56,356,41,351,47,339,44,335,44,263,36,241,42,201,18,193,6,168,1,155",
+    "label": "18mo",
+    "id": 4
+},
+{
+    "content": "<ul>\r\n\t<li>Attend when spoken to</li>\r\n\t<li>Follow simple commands, like \"put down the toy on the table\"</li>\r\n\t<li>Use one- and two-word phrases regularly</li>\r\n\t<li>Use a range of consonants at the beginnings of words</li>\r\n</ul>",
+    "label_name": "Age 2 years",
+    "map_area_shape": "poly",
+    "coordinates": "150,219,152,206,132,203,114,192,106,183,94,175,99,161,109,155,99,134,100,112,86,129,74,104,97,108,110,99,124,97,138,104,153,90,158,110,141,110,147,123,140,143,135,152,156,163,166,184,165,187,196,233,189,241,154,200,158,252,153,274,155,296,156,310,155,331,168,357,146,358,142,352,142,334,122,275,110,311,113,325,109,341,103,344,102,271,105,259,100,247,106,239,103,214,127,219",
+    "label": "2yr",
+    "id": 5
+},
+{
+    "content": "<ul>\r\n\t<li>Maintain eye contact and engage in basic conversational discourse</li>\r\n\t<li>Respond to a basic yes/no question</li>\r\n\t<li>Follow two-step directions, like \u201ctake off your coat and go into the big room\u201d</li>\r\n\t<li>Be generally understood by caregivers/family</li>\r\n\t<li>Use a word or phrase for most needs and wants</li>\r\n\t<li>Correctly produce vowels and most consonants</li>\r\n</ul>",
+    "label_name": "Age 3 years",
+    "map_area_shape": "poly",
+    "coordinates": "155,88,156,77,177,64,200,73,204,84,201,93,204,98,192,117,196,126,216,141,226,171,227,188,219,213,220,226,208,233,212,292,193,298,188,337,195,353,174,359,168,341,173,329,171,298,163,256,157,295,158,250,157,225,168,222,179,233,189,245,196,235,168,185,156,161,139,154,148,125,160,115,157,105,160,93",
+    "label": "3yr",
+    "id": 6
+},
+{
+    "content": "<ul>\r\n\t<li>Engage in basic conversation with eye contact</li>\r\n\t<li>Attend to stories and directions</li>\r\n\t<li>Be understood by most people</li>\r\n\t<li>Follow multiple step complex commands, like \u201cafter you spit, give me the cup then lie down\u201d</li>\r\n\t<li>Talk about remote events, like school</li>\r\n\t<li>Speak smoothly without repeating syllables and words</li>\r\n\t<li>Answer and use simple questions</li>\r\n\t<li>Use mostly complete sentences</li>\r\n</ul>\r\n",
+    "label_name": "Age 4 years",
+    "map_area_shape": "poly",
+    "coordinates": "194,69,199,47,219,31,230,32,246,44,249,60,255,69,252,77,241,93,250,99,268,105,288,155,288,184,270,208,265,223,272,241,264,272,264,305,258,319,263,329,258,356,232,351,240,331,244,309,236,305,236,262,226,320,232,335,227,360,200,354,212,325,207,309,195,309,196,298,212,293,208,237,220,228,219,213,228,185,224,173,228,173,216,140,196,128,191,117,204,104,214,100,204,87,202,77",
+    "label": "4yr",
+    "id": 7
+},
+{
+    "content": "<ul>\r\n\t<li>Maintain a topic in conversation</li>\r\n\t<li>Pay attention to a story and then answer questions about it</li>\r\n\t<li>Appropriately follow related directions</li>\r\n\t<li>Be understood in all situations by most listeners</li>\r\n\t<li>Correctly produce most speech sounds</li>\r\n\t<li>Communicate easily with peers</li>\r\n\t<li>Name any letters or numbers</li>\r\n</ul>\r\n",
+    "label_name": "Age 5 years",
+    "map_area_shape": "poly",
+    "coordinates": "240,35,260,2,282,1,300,13,309,35,302,65,306,77,318,88,326,157,320,197,322,216,314,225,321,249,292,262,289,296,275,337,280,350,279,360,258,357,263,325,260,308,267,305,273,243,267,222,270,210,288,189,288,157,268,104,241,94,254,77,249,59,249,44",
+    "label": "5yr",
+    "id": 8
+}
+]
