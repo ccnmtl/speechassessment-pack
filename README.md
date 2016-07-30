@@ -1,6 +1,9 @@
 Standalone Interactive Exercise: Speech Assessment
 ==========
 
+##### About speech assessment
+Infographic to explore age-specific behaviors warranting a speech-language pathology referral
+
 ##### About Multidisciplinary Approaches to Children’s Oral Health (MATCH)
 There are a variety of healing and helping professions that, when partnered with pediatric dentists, hold tremendous potential to improve children’s oral health and welfare.
 
@@ -30,23 +33,8 @@ NPM INSTALLATION
 3. Embed the interactive via an iframe.
 
 
-#### Diagnoses
 ```
 <code>
-    <iframe src="<server>/<output_path>/?map=1"></iframe>
-</code>
-```
-
-#### Pediatric Referrals
-```
-<code>
-    <iframe src="<server>/<output_path>/?map=2"></iframe>
-</code>
-```
-
-#### Swallow Assessment
-```
-<code>
-    <iframe src="<server>/<output_path>/?map=3"></iframe>
+    <iframe src="<server>/<output_path>/"></iframe>
 </code>
 ```
