@@ -1,7 +1,7 @@
 {
   "name": "speechassessment-pack",
-  "version": "0.1.0",
-  "description": "Interactive to recreate a pediatric dental visit",
+  "version": "0.1.1",
+  "description": "Learn more about diagnoses treated by a speech-language pathologist.",
   "main": "src/index.js",
   "scripts": {
     "serve": "webpack-dev-server --hot --inline --open",
@@ -58,6 +58,7 @@
     "bootstrap-arrow-buttons": "^1.0.4",
     "css-loader": "^0.14.0",
     "file-loader": "^0.8.5",
+    "imagemapchart": "^0.1.0",
     "jquery": "^2.1.4",
     "json-loader": "^0.5.4",
     "style-loader": "^0.12.0",

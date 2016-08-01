@@ -1,5 +1,8 @@
 /* global describe: true, before: true, it: true */
 
+require('!file?name=[name].[ext]!./view-test.html');
+require('../src/static.js');
+
 var chai = require('chai');
 var assert = chai.assert;
 
@@ -22,7 +25,5 @@ function waitFor(testFx, doneFx, millis) {
     }, 250); //< repeat check every 250ms
 }
 
-describe('Speech Assessment', function() {
-    before(function() {
-    });
+describe('View', function() {
 });
