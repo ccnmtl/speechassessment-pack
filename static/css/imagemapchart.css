@@ -1,7 +1,12 @@
+.interactive-container {
+    min-width: 670px;
+}
+
 .slpchart01 {
     position: relative;
     width: 670px;
     height: 500px;
+    margin: 0 auto;
     background: url('../img/slpchart01_bg.jpg') no-repeat 0 0;
 }
 
