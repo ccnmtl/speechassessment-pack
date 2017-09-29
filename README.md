@@ -1,6 +1,8 @@
 Standalone Interactive Exercise: Speech Assessment
 ==========
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ccnmtl/speechassessment-pack.svg)](https://greenkeeper.io/)
+
 ##### About speech assessment
 Infographic to explore age-specific behaviors warranting a speech-language pathology referral
 
