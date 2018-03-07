@@ -23,13 +23,13 @@ module.exports = {
             {
                 test: /\.(png|svg|jpg|gif)$/,
                 use: [
-                    'url-loader'
+                    'file-loader'
                 ]
             },
             {
                 test: /\.(woff|woff2|eot|ttf|otf)$/,
                 use: [
-                    'url-loader'
+                    'file-loader'
                 ]
             }
         ]
