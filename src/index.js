@@ -1,5 +1,3 @@
-/* global jQuery: true */
-
 require('./static.js');
 require('!file-loader?name=[name].[ext]!../static/index.html');
 
