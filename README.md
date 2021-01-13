@@ -1,3 +1,6 @@
+[![Actions Status](https://github.com/ccnmtl/speechassessment-pack/workflows/build-and-test/badge.svg)](https://github.com/ccnmtl/speechassessment-pack/actions)
+
+
 Standalone Interactive Exercise: Speech Assessment
 ==========
 
